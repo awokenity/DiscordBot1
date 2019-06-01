@@ -294,4 +294,4 @@ async def on_message(message):
 			await asyncio.sleep(4)
 			await client.delete_message(emessage)
 				
-client.run("NTUwNTY4MTE4NDEwMjgwOTcz.D13zkQ._goauUc6QNnCY_ixaXINbRkfFiE")
+client.run(str(os.environ.get('BOT_TOKEN'))) 
