@@ -1,0 +1,9 @@
+discord
+asyncio
+random
+time
+requests
+io
+os
+youtube_dl
+pip
