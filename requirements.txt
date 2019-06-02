@@ -1,6 +1,6 @@
 discord
 asyncio
-random
+9.6 random
 time
 requests
 io
