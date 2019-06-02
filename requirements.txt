@@ -1,8 +1,4 @@
 discord
 asyncio
-time
-requests
-io
-os
-youtube_dl
 pip
+youtube_dl
